@@ -10,6 +10,8 @@ namespace MoqSamples
     {
         static void Main(string[] args)
         {
+            new MoqBasic().Exec();
+            Console.ReadLine();
         }
     }
 }
